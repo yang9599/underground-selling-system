@@ -7,4 +7,4 @@ ticketseller is the code file.
 
 the UI as follow:
 
-![UI](UI.jpg)
+![UI](UI.png)
